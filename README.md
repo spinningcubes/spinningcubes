@@ -1,6 +1,8 @@
-[Blog](http://spinningcubes.com) 
-[Twitter](https://twitter.com/spinningcubes) 
-[Gamedev Notes](http://www.gamedevpensieve.com/) 
+Hello 😄.
+
+* [Blog](http://spinningcubes.com) 
+* [Twitter](https://twitter.com/spinningcubes) 
+* [Gamedev Notes](http://www.gamedevpensieve.com/) 
 
 <!--
 **spinningcubes/spinningcubes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
